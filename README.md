@@ -15,7 +15,23 @@
 5. [Trastevere](https://maps.app.goo.gl/DMMd485MJvFw6U4s8) - ωραία περιοχή για βόλτα με ωραία μαγαζιά
 6. [Piazza Venezia](https://maps.app.goo.gl/tLUCr5bx6UTPiMwr6)
   
-  
+
+ 
+## Εστιατόρια:
+
+- Κοντά στο δωμάτιο:
+1. Museum Restaurant
+
+
+| Εστιατόριο   |   Link  |  Περιοχή  |   €/πιάτο   |    Καλύτερα πιάτα   |  Παρατηρήσεις |
+| --------     | ------- | --------  | -------     |      --------       |   -------     |
+| Tonnarello      | $250    | --------  | -------     |      --------       |   -------     |
+| Trattoria Da Enzo     | $80     | --------  | -------     |      --------       |   -------     |
+| March        | $420    | --------  | -------     |      --------       |   -------     |
+
+
+1. [Tonnarello](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) - Trastevere / ώρες αιχμής έχει ουρά - έχει πολλά μαγαζία το ένα δίπλα στο άλλο
+2. [Trattoria Da Enzo](https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6) - Trastevere / Carbonara - Cacio e Pepe - Carciofi alla Giudia (τηγανιτή αγκινάρα)
   
 ## Ενδεικτικό Πρόγραμμα:  
   
