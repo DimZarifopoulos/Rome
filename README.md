@@ -19,15 +19,12 @@
  
 ## Εστιατόρια:
 
-- Κοντά στο δωμάτιο:
-1. Museum Restaurant
-
-
-| Εστιατόριο         |   Link                                    |  Περιοχή    |   €/πιάτο   |    Καλύτερα πιάτα   | Παρατηρήσεις |
-| Museum Restaurant   | ------- | Κοντά στο δωμάτιο  | -------     |      --------       |   -------     |
-| Tonnarello          | https://maps.app.goo.gl/jnLf4Gxphn65TL4a7 | Trastevere | 15€  |  Polpette (κεφτεδάκια κοκκινιστά)| ώρες αιχμής έχει ουρά - έχει πολλά μαγαζία το ένα δίπλα στο άλλο
-| Trattoria Da Enzo   | https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6 | Trastevere| 15-16€ | Carbonara - Cacio e Pepe - Carciofi alla Giudia (τηγανιτή αγκινάρα) |
-| March               | $420    | --------  | -------     |      --------       |   -------     |
+| Εστιατόριο | Link | Περιοχή | € (Μέσος όρος) | Καλύτερο Πιάτο | Παρατηρήσεις |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Tonnarello** | [Google Maps](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) | Trastevere | ~15€ | Polpette (κεφτεδάκια κοκκινιστά), Tonnarelli | Τις ώρες αιχμής έχει ουρά - έχει πολλά μαγαζιά το ένα δίπλα στο άλλο, γρήγορη εξυπηρέτηση. |
+| **Trattoria Da Enzo 29** | [Google Maps](https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6) | Trastevere | 15-16€ | Carbonara, Cacio e Pepe, Carciofi alla Giudia (τηγανητή αγκινάρα) | Κλασικό και αυθεντικό. Δεν δέχεται κρατήσεις, υπολογίστε πιθανή αναμονή. |
+| **Romanè** | [Google Maps](https://maps.google.com/?cid=14150288840432438466) | Cipro / Prati | 25-30€ | Spaghettoni all'Amatriciana, Polpette di bollito (βραστά κεφτεδάκια), Pollo alla cacciatora | Προτείνεται από τον Οδηγό Michelin (Bib Gourmand). Είναι δίπλα ακριβώς στο δωμάτιό σας, ιδανικό για ένα χαλαρό αλλά εξαιρετικό δείπνο! |
+| **Canova Tadolini (Museum Restaurant)** | [Google Maps](https://maps.google.com/?cid=15812684981603221898) | Piazza di Spagna / Babuino | 25-35€ | Πιάτα ζυμαρικών (π.χ. Fettuccine), Aperitivo | Τρώτε ή πίνετε τον καφέ σας ανάμεσα σε πανέμορφα ιστορικά γλυπτά. Μοναδική ατμόσφαιρα μουσείου, τέλειο για τη βόλτα σας στα Ισπανικά Σκαλιά. |
 
 
 1. [Tonnarello](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) - Trastevere / ώρες αιχμής έχει ουρά - έχει πολλά μαγαζία το ένα δίπλα στο άλλο
