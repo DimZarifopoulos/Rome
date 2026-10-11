@@ -31,9 +31,6 @@
 | **La Romana (Παγωτό)** | [Google Maps] (https://maps.app.goo.gl/QGC1D81SQuNRMeLE9) | Pantheon | 3-5€ | Κρέμες, Bacio di Dama,  | - |
 | **Two Sizes (Τιραμισού)** | [Google Maps] (https://maps.app.goo.gl/tTa7aaBV8Asvrufz6) | Pantheon | 3-5€ | -  | - |
 
-
-1. [Tonnarello](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) - Trastevere / ώρες αιχμής έχει ουρά - έχει πολλά μαγαζία το ένα δίπλα στο άλλο
-2. [Trattoria Da Enzo](https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6) - Trastevere / Carbonara - Cacio e Pepe - Carciofi alla Giudia (τηγανιτή αγκινάρα)
   
 ## Ενδεικτικό Πρόγραμμα:  
   
