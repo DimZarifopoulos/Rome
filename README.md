@@ -12,7 +12,8 @@
 2. Fontana di Trevi / [Piazza Navona](https://maps.app.goo.gl/B225YtR449EQg8G58)  
 3. [Spanish steps](https://maps.app.goo.gl/hAcd9AYXkEmSwPfWA) - βόλτα  
 4. [Villa Borghese](https://maps.app.goo.gl/mtRr8ucuGxvu5uEv7) - βόλτα  
-5. [Trastevere](https://maps.app.goo.gl/DMMd485MJvFw6U4s8) - ωραία περιοχή για βόλτα με ωραία μαγαζιά  
+5. [Trastevere](https://maps.app.goo.gl/DMMd485MJvFw6U4s8) - ωραία περιοχή για βόλτα με ωραία μαγαζιά
+6. [Piazza Venezia](https://maps.app.goo.gl/tLUCr5bx6UTPiMwr6)
   
   
   
