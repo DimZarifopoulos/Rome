@@ -23,11 +23,11 @@
 1. Museum Restaurant
 
 
-| Εστιατόριο   |   Link  |  Περιοχή  |   €/πιάτο   |    Καλύτερα πιάτα   |  Παρατηρήσεις |
-| --------     | ------- | --------  | -------     |      --------       |   -------     |
-| Tonnarello      | $250    | --------  | -------     |      --------       |   -------     |
-| Trattoria Da Enzo     | $80     | --------  | -------     |      --------       |   -------     |
-| March        | $420    | --------  | -------     |      --------       |   -------     |
+| Εστιατόριο         |   Link                                    |  Περιοχή    |   €/πιάτο   |    Καλύτερα πιάτα   | Παρατηρήσεις |
+| Museum Restaurant   | ------- | Κοντά στο δωμάτιο  | -------     |      --------       |   -------     |
+| Tonnarello          | https://maps.app.goo.gl/jnLf4Gxphn65TL4a7 | Trastevere | 15€  |  Polpette (κεφτεδάκια κοκκινιστά)| ώρες αιχμής έχει ουρά - έχει πολλά μαγαζία το ένα δίπλα στο άλλο
+| Trattoria Da Enzo   | https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6 | Trastevere| 15-16€ | Carbonara - Cacio e Pepe - Carciofi alla Giudia (τηγανιτή αγκινάρα) |
+| March               | $420    | --------  | -------     |      --------       |   -------     |
 
 
 1. [Tonnarello](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) - Trastevere / ώρες αιχμής έχει ουρά - έχει πολλά μαγαζία το ένα δίπλα στο άλλο
