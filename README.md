@@ -23,7 +23,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Museum Restaurant** | [Google Maps](https://maps.app.goo.gl/Wc7Avu6jhNCxkFQ38) | Κοντά στο δωμάτιο | 10-12€ | Πιάτα ζυμαρικών και παραδοσιακή πίτσα | - |
 | **Romanè** | [Google Maps](https://maps.google.com/?cid=14150288840432438466) | Κοντά στο δωμάτιο | 15-16€ | Spaghettoni all'Amatriciana, Pollo alla cacciatora(κοτόπουλο κυνηγού κοκκινιστό) - δεν έχει πίτσα | - |
-| **Eroi Della Pizza** | [Google Maps](https://maps.google.com/?q=Bonci+Pizzarium+Roma](https://maps.app.goo.gl/zEX4BttaUpL1bzyTA) | Κοντά στο δωμάτιο | 5€ | Πίτσα στο χέρι | Street food|
+| **Eroi Della Pizza** | [Google Maps](https://maps.app.goo.gl/zEX4BttaUpL1bzyTA) | Κοντά στο δωμάτιο | 5€ | Πίτσα στο χέρι | Street food|
 | **Tonnarello** | [Google Maps](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) | Trastevere | ~15€ | Polpette (κεφτεδάκια κοκκινιστά), Tonnarelli | Τις ώρες αιχμής έχει ουρά - έχει πολλά μαγαζιά το ένα δίπλα στο άλλο, γρήγορη εξυπηρέτηση. |
 | **Trattoria Da Enzo 29** | [Google Maps](https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6) | Trastevere | 15-16€ | Carbonara, Cacio e Pepe, Carciofi alla Giudia (τηγανιτή αγκινάρα) | Κλασικό και αυθεντικό - πιθανή αναμονή. |
 | **Giolitti (Παγωτό)** | [Google Maps](https://maps.google.com/?q=Giolitti+Roma) | Πάνθεον | 3-5€ | Φιστίκι (Pistacchio), Μαύρη Σοκολάτα | Ιστορική gelateria. Πληρώνετε πρώτα στο ταμείο και μετά πάτε στον πάγκο |
