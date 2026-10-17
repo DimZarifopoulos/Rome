@@ -14,6 +14,7 @@
 4. [Villa Borghese](https://maps.app.goo.gl/mtRr8ucuGxvu5uEv7) - βόλτα  
 5. [Trastevere](https://maps.app.goo.gl/DMMd485MJvFw6U4s8) - ωραία περιοχή για βόλτα με ωραία μαγαζιά
 6. [Piazza Venezia](https://maps.app.goo.gl/tLUCr5bx6UTPiMwr6)
+7. [Βασιλική της Σάντα Μαρία Ματζόρε](https://maps.app.goo.gl/7xkoPNdi914kQJRt5)
   
 
  
@@ -28,7 +29,8 @@
 | **Trattoria Da Enzo 29** | [Google Maps](https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6) | Trastevere | 15-16€ | Carbonara, Cacio e Pepe, Carciofi alla Giudia (τηγανιτή αγκινάρα) | Κλασικό και αυθεντικό - πιθανή αναμονή. |
 | **Giolitti (Παγωτό)** | [Google Maps](https://maps.app.goo.gl/zXXhDUka6GuBV5XN9) | Πάνθεον | 3-5€ | Φιστίκι (Pistacchio), Μαύρη Σοκολάτα | Ιστορική gelateria. Πληρώνετε πρώτα στο ταμείο και μετά πάτε στον πάγκο |
 | **Frigidarium (Παγωτό)** | [Google Maps](https://maps.google.com/?q=Frigidarium+Roma) | Piazza Navona | 3-5€ | Γεύση Frigidarium (καραμέλα/μπισκότο) | Φημίζεται γιατί βουτάνε το παγωτό σας σε ρευστή σοκολάτα (λευκή ή μαύρη) η οποία παγώνει και κάνει κρούστα! |
-| **La Romana (Παγωτό)** | [Google Maps](https://maps.app.goo.gl/QGC1D81SQuNRMeLE9) | Pantheon | 3-5€ | Κρέμες, Bacio di Dama,  | - |
+| **La Romana (Παγωτό)** | [Google Maps](https://maps.app.goo.gl/QaJzRxjAMSjqUNGa9) | Spanish steps | 3-5€ | Κρέμες, Bacio di Dama,  | - |
+| **Pompi (Τιραμισού)** | [Google Maps](https://maps.app.goo.gl/tTa7aaBV8Asvrufz6) | Pantheon | 6€ | -  | Από τα πιο γνωστά τιραμισού |
 | **Two Sizes (Τιραμισού)** | [Google Maps](https://maps.app.goo.gl/tTa7aaBV8Asvrufz6) | Pantheon | 3-5€ | -  | - |
 
   
@@ -63,11 +65,14 @@
   
 ## Μεταφορά από αεροδρόμιο:  
   
-Άφιξη   
-- 10:20 Θανάσης // 11:10 Γονείς μου  
+- ### Άφιξη: 10:20 Θανάσης // 11:10 Γονείς μου 
   
-- [Περπατάτε προς την έξοδο](https://www.youtube.com/watch?v=_1LQhZ-evdY) και ακολουθείτε τις ταμπέλες που δείχνουν το λεωφορείο - 10’ από terminal 1 προς terminal 3 όπου είναι οι στάσεις λεωφορείων   
-- Είτε αγοράζετε εισιτήριο από τον οδηγό, είτε σας τα αγοράζω online    
-- Πάτε στη στάση ****Vatican City****  
-- Από εκεί, προχωράτε 5΄στον ίδιο δρόμο - στη στάση Crescenzio/Terenzio και παίρνετε το λεωφορείο 913 που περνάει κάθε 13’  
-- Κατεβαίνετε στην 8η στάση Medaglie D'Oro/Montezemolo και περπατάτε άλλα 4΄για το δωμάτιο  
+- [Περπατάτε προς την έξοδο](https://www.youtube.com/watch?v=_1LQhZ-evdY) και ακολουθείτε τις ταμπέλες που δείχνουν το λεωφορείο - 10’ από terminal 1 προς terminal 3 όπου είναι οι στάσεις λεωφορείων
+- φωτογραφια
+- ### ΔΡΟΜΟΛΟΓΙΑ 
+- ### | 11:25 | 11:45 | 12:00 | 12:25 |
+- Πάτε στη στάση λεωφορείων ****16 - SIT BUS SHUTTLE**** (γράφει το νούμερο πάνω στις κολώνες) 
+- Αγοράζετε εισιτήριο από τον οδηγό -> Πάτε στη στάση ****Vatican City**** - ****Two tickets to the Vatican City stop please**** - πρέπει να είναι η 2η στάση
+- Από εκεί, προχωράτε 2΄στον ίδιο δρόμο - πάτε στο παρκάκι απέναντι και παίρνετε το λεωφορείο 913 ή 900 που περνάει κάθε 13’ στη στάση ****P.Za Cavour****
+- Κατεβαίνετε στην 9η στάση ****Medaglie D'Oro/Montezemolo**** και περπατάτε άλλα 4΄για το δωμάτιο
+  ![Χάρτης](https://github.com/DimZarifopoulos/Rome/blob/main/map.png?raw=true)
