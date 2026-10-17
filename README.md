@@ -26,7 +26,7 @@
 | **Eroi Della Pizza** | [Google Maps](https://maps.app.goo.gl/zEX4BttaUpL1bzyTA) | Κοντά στο δωμάτιο | 5€ | Πίτσα στο χέρι | Street food|
 | **Tonnarello** | [Google Maps](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) | Trastevere | ~15€ | Polpette (κεφτεδάκια κοκκινιστά), Tonnarelli | Τις ώρες αιχμής έχει ουρά - έχει πολλά μαγαζιά το ένα δίπλα στο άλλο, γρήγορη εξυπηρέτηση. |
 | **Trattoria Da Enzo 29** | [Google Maps](https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6) | Trastevere | 15-16€ | Carbonara, Cacio e Pepe, Carciofi alla Giudia (τηγανιτή αγκινάρα) | Κλασικό και αυθεντικό - πιθανή αναμονή. |
-| **Giolitti (Παγωτό)** | [Google Maps](https://maps.google.com/?q=Giolitti+Roma) | Πάνθεον | 3-5€ | Φιστίκι (Pistacchio), Μαύρη Σοκολάτα | Ιστορική gelateria. Πληρώνετε πρώτα στο ταμείο και μετά πάτε στον πάγκο |
+| **Giolitti (Παγωτό)** | [Google Maps](https://maps.app.goo.gl/zXXhDUka6GuBV5XN9) | Πάνθεον | 3-5€ | Φιστίκι (Pistacchio), Μαύρη Σοκολάτα | Ιστορική gelateria. Πληρώνετε πρώτα στο ταμείο και μετά πάτε στον πάγκο |
 | **Frigidarium (Παγωτό)** | [Google Maps](https://maps.google.com/?q=Frigidarium+Roma) | Piazza Navona | 3-5€ | Γεύση Frigidarium (καραμέλα/μπισκότο) | Φημίζεται γιατί βουτάνε το παγωτό σας σε ρευστή σοκολάτα (λευκή ή μαύρη) η οποία παγώνει και κάνει κρούστα! |
 | **La Romana (Παγωτό)** | [Google Maps](https://maps.app.goo.gl/QGC1D81SQuNRMeLE9) | Pantheon | 3-5€ | Κρέμες, Bacio di Dama,  | - |
 | **Two Sizes (Τιραμισού)** | [Google Maps](https://maps.app.goo.gl/tTa7aaBV8Asvrufz6) | Pantheon | 3-5€ | -  | - |
